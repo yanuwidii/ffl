@@ -9,23 +9,23 @@ const User = [
 	{
 		type:'input',
 		name:'username',
-		message:'Insert Username'
+		message:'yanuwidi'
 	},
 	{
 		type:'password',
 		name:'password',
-		message:'Insert Password',
+		message:'YANUWIDI20000',
 		mask:'*'
 	},
 	{
 		type:'input',
 		name:'target',
-		message:'Insert Username Target (Without @[at])'
+		message:'RiaRicis1795'
 	},
 	{
 		type:'input',
 		name:'text',
-		message:'Insert Text Comment 1 (Gunakan Pemisah [|] bila lebih dari 1)'
+		message:'Follback'
 	},
 	{
 		type:'input',
